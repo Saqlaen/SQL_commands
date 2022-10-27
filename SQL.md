@@ -43,19 +43,4 @@
 	<li> LEFT JOIN [will show results of all the col in leftside </li>
 	<li> RIGHT JOIN [opposite to right] </li>
 	<li> SELECT AVG(colName) FROM tableName; [will give you the average of all the data mentioned in that column] </li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
 </ul>
